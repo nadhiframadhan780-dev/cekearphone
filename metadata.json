@@ -1,0 +1,6 @@
+{
+  "name": "EarCheck",
+  "description": "Pendeteksi & Pemeriksa Kesehatan Earphone/Headset dari Laptop via Bluetooth & Kabel dengan diagnosa baterai, akustik, dan kontrol.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
